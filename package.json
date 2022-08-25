@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node main.js"
+  },
+  "dependencies": {
+    "@ts-graphviz/node": "^0.4.1",
+    "ts-graphviz": "^0.16.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
